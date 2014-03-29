@@ -1,4 +1,10 @@
-some helpers for NSString.
+Some helpers for NSString.
+
+if you use cocoapods:
+
+    pod 'EDStringHelper'
+
+or else just copy the *.h and *.m to your project.
 
 Method list:
 
